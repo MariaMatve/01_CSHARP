@@ -1,0 +1,14 @@
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/bin/Debug/net7.0/Task3
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/bin/Debug/net7.0/Task3.deps.json
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/bin/Debug/net7.0/Task3.runtimeconfig.json
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/bin/Debug/net7.0/Task3.dll
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/bin/Debug/net7.0/Task3.pdb
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.AssemblyInfoInputs.cache
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.AssemblyInfo.cs
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.csproj.CoreCompileInputs.cache
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.dll
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/refint/Task3.dll
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.pdb
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/Task3.genruntimeconfig.cache
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task3/obj/Debug/net7.0/ref/Task3.dll
