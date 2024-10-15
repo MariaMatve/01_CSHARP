@@ -1,0 +1,14 @@
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/bin/Debug/net7.0/Task5
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/bin/Debug/net7.0/Task5.deps.json
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/bin/Debug/net7.0/Task5.runtimeconfig.json
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/bin/Debug/net7.0/Task5.dll
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/bin/Debug/net7.0/Task5.pdb
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.AssemblyInfoInputs.cache
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.AssemblyInfo.cs
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.csproj.CoreCompileInputs.cache
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.dll
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/refint/Task5.dll
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.pdb
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/Task5.genruntimeconfig.cache
+/Users/aleksandrmatveev/Desktop/01_CSHARP/Lesson1/Task5/obj/Debug/net7.0/ref/Task5.dll
